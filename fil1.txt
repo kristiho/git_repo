@@ -1,2 +1,5 @@
 bla bla bla
 endrer til en ny linje i min nye branch
+Mer bla bla bl
+enda mer bl-a
+
